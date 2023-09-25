@@ -1,7 +1,7 @@
  Olá, me chamo Victor Munhoz!
 ## Bem vindo ao meu perfil GitHub 👋
 
-🏢 Atualmente trabalho no Dom Atacadista S. A, como Técnico em Segurança do Trabalho, porém busco uma transição de carreira para a  área de TI, para ser mais exato, como Desenvolvedor de Software.
+🏢 Atualmente trabalho no Dom Atacadista S. A, como Assistentge de Sistemas Júnior, porém meu maior foco e sonho é trabalhar com desenvolvimento de Software, tanto no Front quanto no Back, e um dia me tornar Full Stack.
 
 📖Segue abaixo Tecnologias que tenho aprendido:
 
