@@ -5,6 +5,7 @@
 
 📖Segue abaixo Tecnologias que tenho aprendido:
 
+💻Python
 💻HTML
 💻CSS
 💻JavaScript
