@@ -1,16 +1,18 @@
  Olá, me chamo Victor Munhoz!
 ## Bem vindo ao meu perfil GitHub 👋
 
-🏢 Atualmente trabalho no Dom Atacadista S. A, como Assistentge de Sistemas Júnior, porém meu maior foco e sonho é trabalhar com desenvolvimento de Software, tanto no Front quanto no Back, e um dia me tornar Full Stack.
-
-📖Segue abaixo Tecnologias que tenho aprendido:
+🏢 Atualmente trabalho na American Pet, como Analista de Sistemas Júnior, durante minha rotina realizo o desenvolvimento Front End com utilização de JavaScript, Angular, PO-UI, HTML e CSS. 
+📖Segue abaixo Tecnologias que tenho conhecimento:
 
 💻Python
+💻JavaScript
+💻Angular
+💻TypeScript
+💻PO-UI
 💻HTML
 💻CSS
-💻JavaScript
 💻Noção de Java EE
-💻Noção de MySQL
+💻Noção de SQL
 
 Em experiências anteriores desenvolvi as seguintes Soft Skills:
 
